@@ -1,0 +1,39 @@
+{
+  "name": "sh1zaaaaaaa/ig-saas-vanilla-mvc-2025-s1",
+  "description": "Vanilla PHP MVC Framework Demo",
+  "type": "project",
+  "version": "0.1",
+  "time": "12-03-2025",
+  "keywords": [
+    "mvc",
+    "framework",
+    "vanilla",
+    "demo",
+    "mysql",
+    "mariadb"
+  ],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Iegor Giba",
+      "email": "yegor.giba@gmail.com",
+      "homepage": "https://github.com/sh1zaaaaaaa",
+      "role": "Developer"
+    },
+    {
+      "name": "Brad Traversy",
+      "email": "support@traversymedia.com",
+      "homepage": "https://www.traversymedia.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
