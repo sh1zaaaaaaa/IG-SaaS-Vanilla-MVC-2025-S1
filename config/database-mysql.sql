@@ -1,14 +1,4 @@
 -- ---------------------------------------------------------------------------------------------
---
--- BEFORE COMMENCING:
---
--- - Replace all instances of YYYY with the current year (e.g. 2025)
--- - Replace all instances of SN with S followed by the semester number (e.g. S1 for semester 1)
--- - Replace ALL instances of XXX with your initials (e.g. AJG for Adrian Gould)
---
--- ---------------------------------------------------------------------------------------------
-
--- ---------------------------------------------------------------------------------------------
 -- Clean up existing database and user
 
 DROP DATABASE IF EXISTS IG_SaaS_FED_2025_S1;
